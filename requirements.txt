@@ -1,0 +1,6 @@
+# Core NLP and fuzzy-matching libraries used by the chatbot
+spacy>=3.8.0
+rapidfuzz>=3.0.0
+
+# After installing dependencies, download the spaCy English model:
+# python -m spacy download en_core_web_sm

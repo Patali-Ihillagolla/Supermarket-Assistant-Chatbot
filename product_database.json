@@ -1,0 +1,149 @@
+{
+  "apple": {
+    "shelf": "Shelf 1",
+    "category": "Fresh Produce",
+    "synonyms": [
+      "apples",
+      "fresh apple",
+      "green apple",
+      "red apple"
+    ],
+    "description": "Fresh organic apples"
+  },
+  "milk": {
+    "shelf": "Shelf 3",
+    "category": "Dairy & Chilled",
+    "synonyms": [
+      "milks",
+      "fresh milk",
+      "whole milk",
+      "skimmed milk"
+    ],
+    "description": "Pasteurized whole milk 1L"
+  },
+  "bread": {
+    "shelf": "Shelf 2",
+    "category": "Bakery",
+    "synonyms": [
+      "breads",
+      "loaf",
+      "sliced bread",
+      "white bread"
+    ],
+    "description": "Freshly baked whole wheat bread"
+  },
+  "rice": {
+    "shelf": "Shelf 4",
+    "category": "Grains & Pasta",
+    "synonyms": [
+      "basmati rice",
+      "white rice",
+      "grain"
+    ],
+    "description": "Long grain basmati rice 1kg"
+  },
+  "sugar": {
+    "shelf": "Shelf 4",
+    "category": "Pantry & Baking",
+    "synonyms": [
+      "white sugar",
+      "cane sugar"
+    ],
+    "description": "Refined white sugar 1kg"
+  },
+  "coffee": {
+    "shelf": "Shelf 6",
+    "category": "Beverages",
+    "synonyms": [
+      "coffee beans",
+      "instant coffee",
+      "espresso"
+    ],
+    "description": "Rich dark roast instant coffee"
+  },
+  "tea": {
+    "shelf": "Shelf 6",
+    "category": "Beverages",
+    "synonyms": [
+      "tea bags",
+      "black tea",
+      "green tea"
+    ],
+    "description": "Premium Ceylon black tea bags"
+  },
+  "shampoo": {
+    "shelf": "Shelf 8",
+    "category": "Personal Care",
+    "synonyms": [
+      "hair shampoo",
+      "anti-dandruff shampoo"
+    ],
+    "description": "Nourishing daily hair shampoo 400ml"
+  },
+  "soap": {
+    "shelf": "Shelf 8",
+    "category": "Personal Care",
+    "synonyms": [
+      "bath soap",
+      "body soap",
+      "hand soap"
+    ],
+    "description": "Moisturizing bath soap bar"
+  },
+  "detergent": {
+    "shelf": "Shelf 5",
+    "category": "Household & Cleaning",
+    "synonyms": [
+      "washing powder",
+      "laundry detergent"
+    ],
+    "description": "Heavy duty laundry detergent powder"
+  },
+  "biscuit": {
+    "shelf": "Shelf 7",
+    "category": "Snacks & Confectionery",
+    "synonyms": [
+      "biscuits",
+      "cookies",
+      "crackers"
+    ],
+    "description": "Crispy chocolate chip biscuits"
+  },
+  "juice": {
+    "shelf": "Shelf 6",
+    "category": "Beverages",
+    "synonyms": [
+      "orange juice",
+      "fruit juice"
+    ],
+    "description": "100% natural orange juice 1L"
+  },
+  "eggs": {
+    "shelf": "Shelf 3",
+    "category": "Dairy & Chilled",
+    "synonyms": [
+      "egg",
+      "fresh eggs"
+    ],
+    "description": "Farm fresh brown eggs (pack of 12)"
+  },
+  "chocolate": {
+    "shelf": "Shelf 7",
+    "category": "Snacks & Confectionery",
+    "synonyms": [
+      "dark chocolate",
+      "milk chocolate",
+      "chocolates"
+    ],
+    "description": "Rich milk chocolate bar 100g"
+  },
+  "toothpaste": {
+    "shelf": "Shelf 8",
+    "category": "Personal Care",
+    "synonyms": [
+      "dental paste",
+      "tooth paste"
+    ],
+    "description": "Fluoride cavity protection toothpaste"
+  }
+}
