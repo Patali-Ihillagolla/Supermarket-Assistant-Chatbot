@@ -5,4 +5,5 @@ __pycache__/
 venv/
 .env
 .vscode/
-"@ | Set-Content .gitignoreshopping_summary.txt
+shopping_summary.txt
+"@ | Set-Content .gitignore
